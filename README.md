@@ -30,7 +30,7 @@ Please make sure that the following image is present on your pics folder
 - system_damaged
 - unlocked
 
-click on mod_my_splash.bat
+run mod_my_splash.bat
 
 follow the prompt. I suggest opting to create flashable zip for convenience.
 
