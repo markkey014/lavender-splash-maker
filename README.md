@@ -1,10 +1,10 @@
 # Redmi Note 7/7s Boot Splash maker
 ## own your phone
 
-This is not a boot animation. If you don't know what the boot splash is, please refrain from using this code.
+This is not a boot animation. If you don't know what boot splash is, please refrain from using this code.
 
 - Only tested on global firmware
-- ✨For Xiaomi Lavender ✨
+- ✨ For Xiaomi Lavender ✨
 
 ## IMPORTANT
 Please make sure your device's bootloader is unlocked
